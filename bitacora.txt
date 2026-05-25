@@ -1,0 +1,1 @@
+dia 1: vi como crear usuario, vi como añadir ramas, modificarlas, restaurar y hacer commits. también vi status y logs. 1:03:02
