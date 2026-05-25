@@ -1,0 +1,14 @@
+D:\proyectos_C#\proyecto_prueba_version\proyecto\bin\Debug\net8.0\proyecto.exe
+D:\proyectos_C#\proyecto_prueba_version\proyecto\bin\Debug\net8.0\proyecto.deps.json
+D:\proyectos_C#\proyecto_prueba_version\proyecto\bin\Debug\net8.0\proyecto.runtimeconfig.json
+D:\proyectos_C#\proyecto_prueba_version\proyecto\bin\Debug\net8.0\proyecto.dll
+D:\proyectos_C#\proyecto_prueba_version\proyecto\bin\Debug\net8.0\proyecto.pdb
+D:\proyectos_C#\proyecto_prueba_version\proyecto\obj\Debug\net8.0\proyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos_C#\proyecto_prueba_version\proyecto\obj\Debug\net8.0\proyecto.AssemblyInfoInputs.cache
+D:\proyectos_C#\proyecto_prueba_version\proyecto\obj\Debug\net8.0\proyecto.AssemblyInfo.cs
+D:\proyectos_C#\proyecto_prueba_version\proyecto\obj\Debug\net8.0\proyecto.csproj.CoreCompileInputs.cache
+D:\proyectos_C#\proyecto_prueba_version\proyecto\obj\Debug\net8.0\proyecto.dll
+D:\proyectos_C#\proyecto_prueba_version\proyecto\obj\Debug\net8.0\refint\proyecto.dll
+D:\proyectos_C#\proyecto_prueba_version\proyecto\obj\Debug\net8.0\proyecto.pdb
+D:\proyectos_C#\proyecto_prueba_version\proyecto\obj\Debug\net8.0\proyecto.genruntimeconfig.cache
+D:\proyectos_C#\proyecto_prueba_version\proyecto\obj\Debug\net8.0\ref\proyecto.dll
