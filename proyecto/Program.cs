@@ -42,8 +42,10 @@ class Program
             {
                 Usuario u = new Usuario(nombre, contrasena);
                 Console.WriteLine($"{u.getNombre()}, {u.GetContrasena()}");
-                
-                
+            }
+            else
+            {
+                return;
             }
         } while (true);
     }
