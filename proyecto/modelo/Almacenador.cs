@@ -14,8 +14,13 @@ public class Almacenador
         bool resultado = usuarios.Any(u=>u.getNombre()==nombre);
         return resultado;
     }
-    public void AgregarUsuario(Usuario usuario)
+    public bool AgregarUsuario(Usuario usuario)
     {
-        
+        if (!ExisteUsuario(usuario.getNombre()))
+        {
+            usuarios.Add(usuario);
+            return true;
+        }
+        return false;
     }
 }
