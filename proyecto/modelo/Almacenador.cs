@@ -14,7 +14,7 @@ public class Almacenador
         bool resultado = usuarios.Any(u=>u.getNombre()==nombre);
         return resultado;
     }
-    public bool AgregarUsuario(Usuario usuario)
+    public bool AgregarUsuarioV2(Usuario usuario)
     {
         if (!ExisteUsuario(usuario.getNombre()))
         {
